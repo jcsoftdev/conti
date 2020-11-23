@@ -380,6 +380,7 @@ h2 {
 .transport-services {
   background-image: linear-gradient(to top, #a7a6cb 0%, #8989ba 52%, #8989ba 100%);
   padding: 0 2rem;
+  margin: 5rem 0;
 }
 .transport-services__content {
   row-gap: 30px;
